@@ -49,7 +49,7 @@ Olá! Sou o **Rodrigo**, estudante do 11.º ano do curso técnico de **Programad
 
 Trabalho com **C++, Python, JavaScript e SQL**, e tenho gosto especial por **desenvolvimento web**. Recentemente desenvolvi o **TREMU na Oficina**, uma aplicação web moderna, intuitiva e responsiva para a Oficina Gonçalves, feita com HTML, CSS, JavaScript e Vercel.
 
-Tenho interesse em **bases de dados**, **programação mobile** e **cibersegurança**, e estou sempre à procura de novos desafios para aprender e ganhar experiência. 🚀
+Tenho interesse em **bases de dados**, **programação mobile** e **cibersegurança**. Estou sempre à procura de novos desafios para aprender e ganhar experiência. 🚀
 
 <h2 align="center"><i>Projeto em destaque</i></h2>
 
